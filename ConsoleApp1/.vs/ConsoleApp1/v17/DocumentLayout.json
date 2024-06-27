@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E0C74B-A668-44CF-A996-F3E57FEF461B}|ConsoleApp1.csproj|d:\\dxlib_vc3_24b\\github\\20240627\\consoleapp1\\20240627_prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E0C74B-A668-44CF-A996-F3E57FEF461B}|ConsoleApp1.csproj|solutionrelative:20240627_prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E0C74B-A668-44CF-A996-F3E57FEF461B}|ConsoleApp1.csproj|d:\\dxlib_vc3_24b\\github\\20240627\\consoleapp1\\20240627_prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E0C74B-A668-44CF-A996-F3E57FEF461B}|ConsoleApp1.csproj|solutionrelative:20240627_prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240627_prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20240627.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240627_Prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "DocumentMoniker": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_Prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "RelativeDocumentMoniker": "20240627_Prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "ToolTip": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_Prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "RelativeToolTip": "20240627_Prac03_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:06:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240627_Prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "DocumentMoniker": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_Prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "RelativeDocumentMoniker": "20240627_Prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "ToolTip": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_Prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "RelativeToolTip": "20240627_Prac02_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:13:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240627_Prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "DocumentMoniker": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_Prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "RelativeDocumentMoniker": "20240627_Prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "ToolTip": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627_Prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "RelativeToolTip": "20240627_Prac01_\u5742\u672C\u7ADC\u4E4B\u52A9.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:06:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240627.cs",
+              "DocumentMoniker": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627.cs",
+              "RelativeDocumentMoniker": "20240627.cs",
+              "ToolTip": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\20240627.cs",
+              "RelativeToolTip": "20240627.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:36:43.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DxLib_VC3_24b\\gitHub\\20240627\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:35:07.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
